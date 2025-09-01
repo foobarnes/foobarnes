@@ -102,19 +102,6 @@ Reach out:
 
 ---
 
-## Optional badges and widgets 📊
-
-> Replace `YOUR_USERNAME` with your GitHub handle if you want these visual widgets.
-
-```md
-![GitHub Streak](https://streak-stats.demolab.com?user=foobarnes)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foobarnes&layout=compact)
-```
-
-You can also pin key repos on your profile for quick scanning.
-
----
-
 ### Fun bits 🎉
 
 * 🏋️‍♂️ 5 a.m. gym person.
