@@ -1,8 +1,12 @@
-# Hi, I’m Chandler 👋
+# 🧑🏻‍💻 Chandler Barnes ♿
 
 CTO and full‑stack engineer shipping AI and creator‑economy tools. I lead teams, bend cloud costs, and turn messy ideas into lovable software.
 
 > Building useful things, learning fast, and keeping the humans in the loop.
+
+## 🚀 About Me
+🌐 [LinkedIn](https://www.linkedin.com/in/chandlerbarnes/)
+🌐 [Personal Site](https://www.chandlerbarnes.com/)
 
 ---
 
