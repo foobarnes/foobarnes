@@ -4,13 +4,13 @@ CTO and full‑stack engineer shipping AI and creator‑economy tools. I lead te
 
 > Building useful things, learning fast, and keeping the humans in the loop.
 
-## 🚀 About Me
-🌐 [LinkedIn](https://www.linkedin.com/in/chandlerbarnes/)
-🌐 [Personal Site](https://www.chandlerbarnes.com/)
+### 🚀 About Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/chandlerbarnes/)
+- 🌐 [Personal Site](https://www.chandlerbarnes.com/)
 
 ---
 
-## What I’m focused on right now 🎯
+### What I’m focused on right now 🎯
 
 * ⚖️ **Stealth AI Startup**: an AI‑powered firm for founders and investors. Slack‑first assistant, human‑in‑the‑loop workflows, and productized services.
 * 📈 **RootNote**: creator analytics infrastructure at scale. Data ingestion pipelines, dashboards, alerts, and cost‑efficient infra.
@@ -19,7 +19,7 @@ CTO and full‑stack engineer shipping AI and creator‑economy tools. I lead te
 
 ---
 
-## Recent projects 🛠️
+### Recent projects 🛠️
 
 * 📬 **Address Parse API**: production API that parses messy addresses into structured components.
 * 🎯 **Procrastination Popper**: breaks intimidating tasks into tight, rewarding loops.
@@ -30,7 +30,7 @@ CTO and full‑stack engineer shipping AI and creator‑economy tools. I lead te
 
 ---
 
-## Toolbox 🧰
+### Toolbox 🧰
 
 **Languages** 💻: TypeScript, JavaScript, Python, SQL, Bash
 
@@ -48,7 +48,7 @@ CTO and full‑stack engineer shipping AI and creator‑economy tools. I lead te
 
 ---
 
-## Engineering principles 📐
+### Engineering principles 📐
 
 * **Ship the smallest useful thing**: reduce scope, raise quality, iterate.
 * **Ground answers in sources**: citations first, confidence scoring, human review when needed.
@@ -59,7 +59,7 @@ CTO and full‑stack engineer shipping AI and creator‑economy tools. I lead te
 
 ---
 
-## Recent wins 🏆
+### Recent wins 🏆
 
 * Cut infra costs by more than 90 percent with a DynamoDB query overhaul.
 * Grew RootNote from zero to 50k+ creators with a tiny team.
@@ -67,7 +67,7 @@ CTO and full‑stack engineer shipping AI and creator‑economy tools. I lead te
 <!--
 ---
 
-## Writing ✍️
+### Writing ✍️
 
 Occasional essays on AI product design, automation, and engineering leadership.
 
@@ -79,7 +79,7 @@ Occasional essays on AI product design, automation, and engineering leadership.
 -->
 ---
 
-## How I work 🧠
+### How I work 🧠
 
 * Healthy skepticism of “move fast and break things.” Prefer “move focused and don’t break trust.”
 * Habit of turning vague ideas into clear specs and checklists.
@@ -88,7 +88,7 @@ Occasional essays on AI product design, automation, and engineering leadership.
 
 ---
 
-## Collaborate with me 🤝
+### Collaborate with me 🤝
 
 I can help with:
 
